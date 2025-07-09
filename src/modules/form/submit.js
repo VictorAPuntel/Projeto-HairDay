@@ -11,7 +11,7 @@ selectedDate.value = inputToday;
 selectedDate.min = inputToday;
 
 form.onsubmit = (event) => {
-  //Previne o comportoamento padrão do formulário
+  //Previne o comportment padrão do formulário
   event.preventDefault();
   try {
     //Recuperando o nome do cliente
