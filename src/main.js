@@ -1,6 +1,6 @@
 "use strict";
 
-//Configuração do Dayjs
+//configuração do Dayjs
 import "./libs/dayjs.js";
 
 //CSS
