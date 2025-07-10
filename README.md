@@ -51,3 +51,12 @@ HairDay/
 
 ```bash
 npm install -g json-server
+```
+2. Comando para startar o server
+```bash
+npm run server
+```
+3. Comando para iniciar o web
+```bash
+npm run dev
+```
